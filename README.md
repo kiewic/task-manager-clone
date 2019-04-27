@@ -9,3 +9,8 @@ The following values (in kilobytes) are displayed for each running process:
 3. Working set (memory)
 4. Memory (private working set)
 5. Commit size
+
+Sources:
+
+* [Win32_Process class](https://docs.microsoft.com/en-us/windows/desktop/CIMWin32Prov/win32-process)
+* [Win32_PerfRawData_PerfProc_Process](https://stackoverflow.com/a/15938001/27211)
