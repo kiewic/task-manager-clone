@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerClone", "TaskManagerClone\TaskManagerClone.csproj", "{F8412293-4468-43FA-AF1D-C2E5C584CC56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryTrackerUnitTests", "MemoryTrackerUnitTests\MemoryTrackerUnitTests.csproj", "{33C49A87-3FA5-4F88-BA8B-056D1183B798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F8412293-4468-43FA-AF1D-C2E5C584CC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8412293-4468-43FA-AF1D-C2E5C584CC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8412293-4468-43FA-AF1D-C2E5C584CC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C49A87-3FA5-4F88-BA8B-056D1183B798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C49A87-3FA5-4F88-BA8B-056D1183B798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C49A87-3FA5-4F88-BA8B-056D1183B798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C49A87-3FA5-4F88-BA8B-056D1183B798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
